@@ -1,6 +1,6 @@
 # Govagnoli.github.io
 
-Ce projet fut réalisé pendant mon année de première en spécialité NSI, en 2019/2020.
+Ce projet fut réalisé pendant mon année de première en spécialité NSI (numérique et sciences informatiques), en 2019/2020.
 Le site avait pour but d'imiter la page web d'une association écologique proposant de planter des arbres en échange d'une donnation.
 
 À Noter:
